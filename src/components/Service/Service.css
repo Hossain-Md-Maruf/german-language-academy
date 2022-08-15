@@ -1,0 +1,9 @@
+.btn-regular
+{
+    background-color: steelblue;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.btn-regular:hover{
+    background-color: rgb(66, 66, 172);
+}

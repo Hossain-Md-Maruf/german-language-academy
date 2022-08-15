@@ -1,0 +1,19 @@
+.instructor
+{
+ background-color: rgb(21, 97, 110);
+ border: 1px solid rgb(247, 243, 243);
+color:rgb(247, 188, 188);
+ margin: 5px;
+ height: auto;
+ width: 940px;
+
+}
+
+.instructor img
+{
+    margin-top: 10px;
+    height:250px;
+    width: 250px;
+    border: 3px dashed #fff;
+    border-radius: 50px;
+}

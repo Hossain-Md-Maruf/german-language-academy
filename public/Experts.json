@@ -1,0 +1,11 @@
+[
+    {
+        "course_type": "Singing", "course_name":"Singing in German", "total_class": "Taught by real Artists", "price": 99, "img": "https://www.bbc.co.uk/staticarchive/1f29f3694609ce6e399a6374215e92aa6bd408cf.jpg"
+    },
+    {
+        "course_type": "Presentation", "course_name":"Presentation in German", "total_class": "29 classes", "price": 150, "img": "https://images.presentationgo.com/2016/02/PowerPoint-Flag-Germany-Template.png"
+    },
+    {
+        "course_type": "Writing", "course_name":"Writing in German", "total_class": "Evaluated by assignments", "price": 149, "img": "https://static.dw.com/image/1648231_4.jpg"
+    }
+]
