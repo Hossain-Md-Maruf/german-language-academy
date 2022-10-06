@@ -8,6 +8,7 @@ const Footer = () => {
             <p>Mobile: 018888888888</p>
             <h4>Address: Ecb Chottor, Dhaka-1206</h4>
             <h4>Bangladesh</h4>
+            <p>© Md. Maruf Hossain</p>
         </div>
     );
 };

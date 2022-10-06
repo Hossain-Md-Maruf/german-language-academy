@@ -1,6 +1,9 @@
 .consult
 {
     background-image: url("https://idsb.tmgrup.com.tr/ly/uploads/images/2022/05/24/207704.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
     margin: 5px;
 }
 

@@ -2,10 +2,13 @@
 {
  background-color: rgb(21, 97, 110);
  border: 1px solid rgb(247, 243, 243);
-color:rgb(247, 188, 188);
- margin: 5px;
- height: auto;
- width: 940px;
+ color:rgb(247, 188, 188);
+ margin-left: 5px;
+ margin-right: 5px;
+ margin-bottom: 5px;
+ /* justify-content: space-around; */
+ 
+ /* width: 75vh; */
 
 }
 
