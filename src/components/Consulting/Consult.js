@@ -13,7 +13,7 @@ const Consult = () => {
             <h5>Sunday to Thrusday</h5>
             <h5>10AM to 7PM</h5>
             <button>Subscribe Now</button>
-            <h2>GET 20% discount on Bkash or Nogod Payment</h2>
+            <h2>GET 20% discount on Bkash or Nagad Payment</h2>
         </div>
     );
 };
