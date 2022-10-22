@@ -1,5 +1,4 @@
 import React from 'react';
-import { Col } from 'react-bootstrap';
 import './Instructor.css';
 
 const Instructor = (props) => {
@@ -9,12 +8,10 @@ const Instructor = (props) => {
         
          
         <div className="instructor">
-            {/* <Col> */}
             <img src={img} alt="" />
             <h2>{name}</h2>
             <h5>{time}</h5>
             <p>{details}</p>
-            {/* </Col> */}
             
         </div>
          
